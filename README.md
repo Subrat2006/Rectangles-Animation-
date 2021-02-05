@@ -7,4 +7,4 @@ This documents (or project) needs the following requirements:
 Python IDLE (or Visual Studio Code, according to the preferance)
 Turtle Module (which is pre-installed in most cases)
 ```
-[Click here](Rectangles.py)
+[Click here](Rectangles.py) for going to the codes
