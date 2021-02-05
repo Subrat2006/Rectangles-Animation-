@@ -18,3 +18,4 @@ The rules of this program would be followed by the Computer itself and you have 
 Actually, I am leaving here the pattern for you all:
 
 1) The Smaller Block can't go above the Bigger Block!
+2) The Blocks would be arranged in a systematic order in ascending order (from the top)!
