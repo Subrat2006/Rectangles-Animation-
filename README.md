@@ -20,3 +20,6 @@ Actually, I am leaving here the pattern for you all:
 1) The Smaller Block can't go above the Bigger Block!
 2) The Blocks would be arranged in a systematic order in ascending order (from the top)!
 3) There would be only 3 columns, where the Rectangular Blocks can go.
+In this way, they will arrange every block in a systematic order!
+
+Wait and see all this till last!
