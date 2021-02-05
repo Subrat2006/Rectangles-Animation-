@@ -7,7 +7,7 @@ This documents (or project) needs the following requirements:
 Python IDLE (or Visual Studio Code, according to the preferance)
 Turtle Module (which is pre-installed in most cases)
 ```
-[Click here](Rectangles.py) for going to the codes of this project!
+If you want to see the codes of this document, [Click here](Rectangles.py)
 
 # About the program
 This program enables us to see the arrangement of Rectangular blocks in a systematic order (according to the size of the Blocks)
