@@ -11,3 +11,10 @@ Turtle Module (which is pre-installed in most cases)
 
 # About the program
 This program enables us to see the arrangement of Rectangular blocks in a systematic order (according to the size of the Blocks)
+
+# Rules
+The rules of this program would be followed by the Computer itself and you have to guess it!
+
+Actually, I am leaving here the pattern for you all:
+
+1) The Smaller Block can't go above the Bigger Block!
